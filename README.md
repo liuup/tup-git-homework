@@ -71,7 +71,7 @@ url为[liuup/git_sample](https://github.com/liuup/git_sample)
 ```git remote rename <old> <new>```  
 ![rename](https://akaliuup.gitee.io/pics/Screenshot%20from%202020-05-03%2019-57-31.png)
 
-11. 远仓库的删除  
+11. 远程仓库的删除  
 ```git remote remove example```
 
 
