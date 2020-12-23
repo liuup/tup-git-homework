@@ -4,7 +4,7 @@ TUP computer vision git homework for new learners
 ## 作业要求
 1. star this repo
 2. fork this repo
-3. pull request(any file is ok) to this main branch
+3. pull request(every file is ok) to this main branch
 4. talk something in Issues
 
 # Git使用教程(无原理讲解)
@@ -79,4 +79,16 @@ url为[liuup/git_sample](https://github.com/liuup/git_sample)
 1. [适合小白/外行的git与github最基础最浅显教程](https://www.cnblogs.com/yaoxiaowen/p/8227873.html)
 2. [Git 基础 - 远程仓库的使用](https://git-scm.com/book/zh/v2/Git-%E5%9F%BA%E7%A1%80-%E8%BF%9C%E7%A8%8B%E4%BB%93%E5%BA%93%E7%9A%84%E4%BD%BF%E7%94%A8)
 
+##Problems you may meet
+###1.push error 403
+解决方案：
 
+vim .git/config
+
+修改
+```[remote "origin"]  
+    url = https://github.com/username/example.git```
+
+改成
+```[remote "origin"]  
+    url = https://username@github.com/username/example.git```
