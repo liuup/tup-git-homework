@@ -1,5 +1,5 @@
 # tup-git-homework
-TUP computer vision git homwork for new learners
+TUP computer vision git homework for new learners
 
 ## 作业要求
 1. star this repo
