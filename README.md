@@ -5,6 +5,7 @@ TUP computer vision git homework for new learners
 1. star this repo
 2. fork this repo
 3. pull request(every file is ok) to this main branch
+4. talk something in Issues
 
 # Git使用教程(无原理讲解)
 
