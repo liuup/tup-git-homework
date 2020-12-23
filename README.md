@@ -1,7 +1,7 @@
 # tup-git-homework
 TUP computer vision git homwork for new learners
 
-## Demand
+## 作业要求
 1. star this repo
 2. fork this repo
 3. pull request to this main branch
